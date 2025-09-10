@@ -46,19 +46,20 @@ Interactive algorithm & DSA visualizer.
 </p>
 
 ---
+## 🌐 Connect With Me  
 
-## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/niladree-naskar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/niladree-naskar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="mailto:niladreenaskar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-FF00FF?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
-  <a href="https://github.com/niladri990">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/niladri990" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF" />
   </a>
 </p>
+
 
 ---
 
