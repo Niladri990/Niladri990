@@ -1,63 +1,61 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Niladree Naskar</h1>
-<h3 align="center">Software Developer | Java & MERN Stack | Problem Solver</h3>
+<!-- Header -->
+<h1 align="center">⚡ Niladree Naskar ⚡</h1>
+<h3 align="center">Full-Stack Developer | Java • React • Spring Boot • MERN</h3>
 
 ---
 
-<!-- Typing Animation -->
+<!-- Hacker Neon Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=16A34A&width=500&lines=Full+Stack+Developer;Java+%7C+Spring+%7C+React;Open+Source+Contributor;Always+Learning+%26+Building" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&background=000000&width=600&lines=⚡+Software+Developer;🚀+Spring+Boot+%7C+React+%7C+MERN;👨‍💻+Building+Scalable+Apps;🌌+Open+Source+Explorer" alt="Typing Animation" />
 </p>
 
 ---
 
-## 🌱 About Me  
-- 🎓 B.Tech student in **Computer Science & Engineering**  
-- 💡 Passionate about **scalable applications, clean UI, and efficient backend systems**  
-- 🔭 Currently working on **Spring Boot + React projects**  
-- 📚 Sharpening **DSA + System Design** skills  
-- 🎯 Goal: Build impactful software & contribute to **open source**  
-- ⚡ Fun fact: I debug faster at midnight 🌙  
+## 🧑‍💻 About Me  
+
+🟣 B.Tech student in **Computer Science & Engineering**  
+🟣 Focused on **Full-Stack Development (Java + MERN)**  
+🟣 Currently building with **Spring Boot + React**  
+🟣 Love solving **DSA problems & system design**  
+🟣 Fun fact: My VS Code theme is always dark 😈  
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠️ Tech Stack  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,html,css,js,react,spring,springboot,mongodb,mysql,git,vscode" />
+<p align="center" style="backdrop-filter: blur(10px); background: rgba(0,0,0,0.3); border-radius: 15px; padding: 10px;">
+  <img src="https://skillicons.dev/icons?i=java,c,html,css,js,react,spring,springboot,mongodb,mysql,git,vscode,linux" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=github,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=github,bash,tailwind,nodejs,express" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects  
 
-Here are some projects that showcase my skills and problem-solving:  
+💻 **[TaskFlow (Spring Boot + React)](https://github.com/your-repo-link)**  
+> 🔹 Task manager with JWT auth, role-based access, and clean UI.  
+*Tech:* Spring Boot • React • MySQL • Tailwind  
 
-🔹 **[TaskFlow (Spring Boot + React)](https://github.com/your-repo-link)**  
-> A task management app with authentication, role-based access, and real-time updates.  
-*Tech:* Spring Boot, React, MySQL, JWT, TailwindCSS  
+🌐 **[DevConnect (MERN Stack)](https://github.com/your-repo-link)**  
+> 🔹 Social app for devs to connect & collaborate.  
+*Tech:* MongoDB • Express • React • Node.js  
 
-🔹 **[DevConnect (MERN Stack)](https://github.com/your-repo-link)**  
-> A social platform for developers to connect, share posts, and collaborate.  
-*Tech:* MongoDB, Express, React, Node.js, JWT  
+⚡ **[AlgoPlayground](https://github.com/your-repo-link)**  
+> 🔹 Algorithm & DSA visualizer.  
+*Tech:* Java • React  
 
-🔹 **[AlgoPlayground](https://github.com/your-repo-link)**  
-> A collection of algorithms & data structure visualizations.  
-*Tech:* Java, JavaFX / React  
-
-🔹 **[Portfolio Website](https://github.com/your-repo-link)**  
-> Personal portfolio showcasing projects & blogs.  
-*Tech:* Next.js, Tailwind, Vercel  
+🎨 **[Portfolio Website](https://github.com/your-repo-link)**  
+> 🔹 Personal portfolio with neon-glassmorphism style.  
+*Tech:* Next.js • Tailwind • Vercel  
 
 ---
 
 ## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niladri990&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niladri990&layout=compact&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=niladri990&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=00000000" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niladri990&layout=compact&theme=radical&hide_border=true&bg_color=00000000" height="170" />
 </p>
 
 ---
@@ -74,16 +72,19 @@ Here are some projects that showcase my skills and problem-solving:
 
 <p align="center">
   <a href="https://linkedin.com/in/niladree-naskar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white&color=00F5FF" />
   </a>
   <a href="mailto:niladreenaskar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-FF3131?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/niladri990" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F5FF" />
   </a>
 </p>
 
 ---
 
-<p align="center">✨ Clean • Professional • Recruiter-Friendly ✨</p>
+<!-- Hacker Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:FF00FF&height=120&section=footer&animation=fadeIn" />
+</p>
