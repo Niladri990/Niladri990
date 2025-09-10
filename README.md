@@ -1,32 +1,32 @@
-<!-- Header -->
-<h1 align="center">⚡ Niladree Naskar ⚡</h1>
-<h3 align="center">Full-Stack Developer | Java • React • Spring Boot • MERN</h3>
+<!-- Neon Glass Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:FF00FF&height=200&section=header&text=Niladree%20Naskar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20|%20Java%20•%20Spring%20•%20React&descAlignY=60&descAlign=50" />
+</p>
 
 ---
 
-<!-- Hacker Neon Typing Effect -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&background=000000&width=600&lines=⚡+Software+Developer;🚀+Spring+Boot+%7C+React+%7C+MERN;👨‍💻+Building+Scalable+Apps;🌌+Open+Source+Explorer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&background=000000&width=600&lines=⚡+Java+%7C+Spring+Boot+Developer;🚀+AWS+Cloud+Enthusiast;🎨+Frontend+with+React;🌌+Building+Scalable+Apps" alt="Typing Animation" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me  
 
-🟣 B.Tech student in **Computer Science & Engineering**  
-🟣 Focused on **Full-Stack Development (Java + MERN)**  
-🟣 Currently building with **Spring Boot + React**  
-🟣 Love solving **DSA problems & system design**  
-🟣 Fun fact: My VS Code theme is always dark 😈  
+🌌 B.Tech student in **Computer Science & Engineering**  
+⚡ Focused on **Java • Spring • Spring Boot • React • AWS**  
+🚀 Building **scalable full-stack applications**  
+📚 Currently improving **System Design & DSA**  
+🎯 Goal: Land a **software developer role** & contribute to **open source**  
+☕ Fun fact: My best code comes after midnight  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-<p align="center" style="backdrop-filter: blur(10px); background: rgba(0,0,0,0.3); border-radius: 15px; padding: 10px;">
-  <img src="https://skillicons.dev/icons?i=java,c,html,css,js,react,spring,springboot,mongodb,mysql,git,vscode,linux" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=github,bash,tailwind,nodejs,express" />
+<p align="center" style="backdrop-filter: blur(10px); background: rgba(0,0,0,0.3); border-radius: 15px; padding: 15px;">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,aws,html,css,js,tailwind,mysql,mongodb,git,github,vscode,linux,bash" />
 </p>
 
 ---
@@ -34,19 +34,19 @@
 ## 🚀 Featured Projects  
 
 💻 **[TaskFlow (Spring Boot + React)](https://github.com/your-repo-link)**  
-> 🔹 Task manager with JWT auth, role-based access, and clean UI.  
+> 🟣 Task manager with JWT auth, role-based access, and clean UI.  
 *Tech:* Spring Boot • React • MySQL • Tailwind  
 
-🌐 **[DevConnect (MERN Stack)](https://github.com/your-repo-link)**  
-> 🔹 Social app for devs to connect & collaborate.  
-*Tech:* MongoDB • Express • React • Node.js  
+🌐 **[DevConnect (Spring + React)](https://github.com/your-repo-link)**  
+> 🟣 Social app for devs to connect & collaborate.  
+*Tech:* Spring • React • MongoDB • AWS  
 
 ⚡ **[AlgoPlayground](https://github.com/your-repo-link)**  
-> 🔹 Algorithm & DSA visualizer.  
+> 🟣 Algorithm & DSA visualizer.  
 *Tech:* Java • React  
 
 🎨 **[Portfolio Website](https://github.com/your-repo-link)**  
-> 🔹 Personal portfolio with neon-glassmorphism style.  
+> 🟣 Personal portfolio with neon-glassmorphism style.  
 *Tech:* Next.js • Tailwind • Vercel  
 
 ---
@@ -72,19 +72,19 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/niladree-naskar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white&color=00F5FF" />
+    <img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="mailto:niladreenaskar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF3131?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-FF00FF?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
   <a href="https://github.com/niladri990" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F5FF" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF" />
   </a>
 </p>
 
 ---
 
-<!-- Hacker Footer -->
+<!-- Neon Glass Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:FF00FF&height=120&section=footer&animation=fadeIn" />
 </p>
