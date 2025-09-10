@@ -1,29 +1,29 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hey, I'm Niladri Naskar</h1>
-<h3 align="center">B.Tech Student | Aspiring Developer | Tech Enthusiast</h3>
+<h1 align="center">Hi there 👋, I'm Niladree Naskar</h1>
+<h3 align="center">🚀 Frontend Developer | MERN Stack Learner | Tech Explorer</h3>
 
 ---
 
-<!-- Hero Section -->
+<!-- Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22c55e&width=435&lines=Full+Stack+Learner;Open+Source+Contributor;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=10B981&width=500&lines=Frontend+Developer;MERN+Stack+Learner;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing animation" />
 </p>
 
 ---
 
 ### 🌱 About Me  
-- 🎓 B.Tech in **Computer Science & Engineering**  
-- 💡 Interested in **Web Dev, Java, and Open Source**  
-- 🚀 Currently learning **DSA + Full Stack**  
-- 🎯 Goal: To land a **remote dev job** and build impactful projects  
-- 🎮 Fun fact: I code better with lo-fi beats 🎧  
+- 🔭 Currently exploring **MERN Stack**  
+- 💡 Passionate about building **clean UIs & scalable apps**  
+- 🌍 Based in **India**  
+- 📫 Reach me at **niladreenaskar@gmail.com**  
+- ⚡ Fun fact: I enjoy solving **DSA problems with coffee ☕**  
 
 ---
 
-### 🛠️ Tech Stack  
+### 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,aws,firebase,django,git,github,vscode" />
 </p>
 
 ---
@@ -31,8 +31,8 @@
 ### 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niladrinaskar&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niladrinaskar&layout=compact&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=niladri990&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niladri990&layout=compact&theme=radical&hide_border=true" height="170" />
 </p>
 
 ---
@@ -40,7 +40,7 @@
 ### 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niladrinaskar&theme=onedark&margin-w=10&margin-h=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=niladri990&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -48,17 +48,14 @@
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://linkedin.com/in/niladree-naskar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:niladreenaskar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio-link">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">✨ Crafted with passion & minimalism ✨</p>
+<p align="center">✨ Minimal • Clean • Developer-Friendly ✨</p>
