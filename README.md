@@ -49,7 +49,7 @@ Interactive algorithm & DSA visualizer.
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/niladree-naskar" target="_blank">
+  <a href="www.linkedin.com/in/niladreenaskar12" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="mailto:niladreenaskar@gmail.com">
