@@ -25,17 +25,21 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 [TaskFlow](https://github.com/your-repo-link)  
-Task manager with authentication & role-based access.  
-**Tech:** Spring Boot • React • MySQL • Tailwind  
+💻 **[TaskFlow (Spring Boot + React)](https://github.com/your-repo-link)**  
+> 🟣 Task manager with JWT auth, role-based access, and clean UI.  
+*Tech:* Spring Boot • React • MySQL • Tailwind  
 
-### 🔹 [DevConnect](https://github.com/your-repo-link)  
-Social platform for developers to connect & collaborate.  
-**Tech:** Spring • React • MongoDB • AWS  
+🌐 **[DevConnect (Spring + React)](https://github.com/your-repo-link)**  
+> 🟣 Social app for devs to connect & collaborate.  
+*Tech:* Spring • React • MongoDB • AWS  
 
-### 🔹 [AlgoPlayground](https://github.com/your-repo-link)  
-Interactive algorithm & DSA visualizer.  
-**Tech:** Java • React  
+⚡ **[AlgoPlayground](https://github.com/your-repo-link)**  
+> 🟣 Algorithm & DSA visualizer.  
+*Tech:* Java • React  
+
+🎨 **[Portfolio Website](https://github.com/your-repo-link)**  
+> 🟣 Personal portfolio with neon-glassmorphism style.  
+*Tech:* Next.js • Tailwind • Vercel  
 
 ---
 
