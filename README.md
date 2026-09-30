@@ -32,10 +32,6 @@ role check should never be an afterthought.
 
 ---
 
-## ⚙️ What I actually work on
-
----
-
 ## 🛠️ Tech Stack
 
 **Backend**
