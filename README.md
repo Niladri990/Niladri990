@@ -85,7 +85,18 @@ role check should never be an afterthought.
 ## 📈 GitHub Analytics
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niladri990&show_icons=true&theme=blue_navy&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=niladri990&theme=blue_navy&hide_border=true" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niladri990&layout=compact&theme=blue_navy&hide_border=true&langs_count=8" width="42%" />
+</p>
+
+<h2 align="center">🐍 My Contribution Snake</h2>
+
+<p align="center">
   <picture>
+    <!-- Dark Mode -->
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/Niladri990/Niladri990/output/snake-dark.svg"
@@ -95,9 +106,9 @@ role check should never be an afterthought.
       srcset="https://raw.githubusercontent.com/Niladri990/Niladri990/output/snake.svg"
     />
     <img
-      width="100%"
       src="https://raw.githubusercontent.com/Niladri990/Niladri990/output/snake.svg"
       alt="GitHub Contribution Snake"
+      width="100%"
     />
   </picture>
 </p>
